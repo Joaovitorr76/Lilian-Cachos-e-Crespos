@@ -1,9 +1,3 @@
 {
-  "cleanUrls": true,
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/lilian-cachos-crespos.html"
-    }
-  ]
+  "cleanUrls": true
 }
